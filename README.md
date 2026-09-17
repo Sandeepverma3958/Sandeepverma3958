@@ -1,37 +1,93 @@
-<h3 align="left">🤝 Connect with me</h3>
+<h1 align="center">Hi 👋, I'm Sandeep Verma</h1>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sandeep-verma-bab6aa236/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sv7922282@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+<h3 align="center">A passionate Data Analyst from India 🇮🇳</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandeepverma3958&label=Profile%20Views&color=0e75b6&style=flat" alt="sandeepverma3958" />
 </p>
-
-
-## 👨‍💻 About Me
-
-I'm a **Data Analyst** passionate about transforming raw data into meaningful business insights.
-
-I enjoy working with **Python, SQL, Power BI, Excel, and Statistics** to clean, analyze, visualize, and interpret data.
-
-* 🔎 Interested in **Data Analytics, Business Intelligence & Financial Analytics**
-* 📊 Experienced in building **interactive Power BI dashboards**
-* 🐍 Using **Python & Pandas** for data cleaning and exploratory data analysis
-* 🗄️ Using **SQL Server** for querying and analyzing business data
-* 📈 Creating KPI reports and business dashboards using **Power BI & Excel**
-* 🤖 Familiar with **Machine Learning concepts and predictive analytics**
-* 🎯 Currently focused on building practical, business-oriented analytics projects
 
 ---
 
-## 🛠️ Skills & Tools
+## 👨‍💻 About Me
 
-### Programming & Data Analysis
+* 💬 Ask me about **Python, SQL, ML, Power BI**
+* 📫 How to reach me: **[sv7922282@gmail.com](mailto:sv7922282@gmail.com)**
+* ⚡ Fun fact: **I like singing and cooking**
+
+---
+
+## 🤝 Connect with Me
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-</a>
-<a href="https://pandas.pydata.or
+  <a href="https://www.linkedin.com/in/sandeep-verma-bab6aa236/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/>
+  </a>
+
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+  </a>
+
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>
+
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepverma3958&show_icons=true&locale=en" alt="Sandeep Verma GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepverma3958&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepverma3958" alt="Sandeep Verma GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐
+</p>
