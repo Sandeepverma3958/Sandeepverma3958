@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sandeep Verma</h1>
+<h3 align="left">🤝 Connect with me</h3>
 
-<h3 align="center">Data Analyst | Python | SQL | Power BI | Excel</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sandeep-verma-bab6aa236/">
+<p align="left">
+  <a href="https://www.linkedin.com/in/sandeep-verma-bab6aa236/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:sv7922282@gmail.com">
@@ -11,7 +9,6 @@
   </a>
 </p>
 
----
 
 ## 👨‍💻 About Me
 
