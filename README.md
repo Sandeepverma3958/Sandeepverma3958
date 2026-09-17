@@ -2,10 +2,6 @@
 
 <h3 align="center">A passionate Data Analyst from India 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandeepverma3958&label=Profile%20Views&color=0e75b6&style=flat" alt="sandeepverma3958" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -68,22 +64,6 @@
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   </a>
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepverma3958&show_icons=true&locale=en" alt="Sandeep Verma GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepverma3958&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepverma3958" alt="Sandeep Verma GitHub Streak" />
 </p>
 
 ---
